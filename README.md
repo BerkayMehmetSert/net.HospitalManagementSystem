@@ -7,7 +7,7 @@ This folder structure represents a layered architecture approach for the hospita
 1. Clone the repository
 
 ```shell
-git clone
+git clone https://github.com/BerkayMehmetSert/net.HospitalManagementSystem.git
 ```
 
 2. Install dependencies
