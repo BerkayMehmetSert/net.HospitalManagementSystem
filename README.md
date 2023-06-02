@@ -28,7 +28,7 @@ dotnet ef database update
 dotnet run
 ```
 
-## Prerequisites
+## Prerequisites ⚙️
 
 * .NET 6.0
 * Entity Framework Core 6.0
@@ -67,14 +67,14 @@ docker-compose up
 http://localhost:15672
 ```
 
-**Admin Credentials**
+**Admin Credentials🔒**
 
 ```text
 Email: example@example.com
 Password: 1234
 ```
 
-## Built With
+## Built With 🛠️
 
 * [Rider](https://www.jetbrains.com/rider/) - IDE
 * [ASP.NET Core 6.0](https://docs.microsoft.com/tr-tr/aspnet/core/?view=aspnetcore-6.0) - Web Framework
