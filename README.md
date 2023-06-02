@@ -36,6 +36,7 @@ dotnet run
 * Swagger
 * AutoMapper
 * RabbitMQ
+* AspNetCoreRateLimit
 * Docker
 * Docker Compose
 
